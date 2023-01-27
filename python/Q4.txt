@@ -1,0 +1,7 @@
+Q4.Ans :- These tuples are an ordered collection of elements of different data types. 
+          Furthermore, we represent them by writing the elements inside the parenthesis separated by commas.
+          We can also define tuples as lists that we cannot change.
+          Therefore, we can call them immutable tuples.
+          Immutable mean not changeable enything.
+          
+    
